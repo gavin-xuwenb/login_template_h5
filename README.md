@@ -1,2 +1,2 @@
 # login_template_h5
-html5 制作的登录静态页面
+html5 制作的静态登录页面
